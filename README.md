@@ -31,6 +31,13 @@ Which helps in getting actionable insights that will helps in reducing Road acci
 
 # Screenshot of the Analysis:-
 # output
+![Screenshot 2024-02-29 124432](https://github.com/MyProjects-5/Road_Accident_Dashboard/assets/140932670/f2a23b9b-327d-4136-8710-b414ac7e147a)
+![Screenshot 2024-02-29 114534](https://github.com/MyProjects-5/Road_Accident_Dashboard/assets/140932670/6483a4cc-c3e7-4c59-ac85-6281725d1108)
+![Screenshot 2024-02-29 124659](https://github.com/MyProjects-5/Road_Accident_Dashboard/assets/140932670/5b54c6aa-a910-4c0d-b6e6-5b2ab1395b55)
+![Screenshot 2024-02-29 124855](https://github.com/MyProjects-5/Road_Accident_Dashboard/assets/140932670/a695aa54-ed36-498e-8efc-292f4a0baf73)
+![Screenshot 2024-02-29 125000](https://github.com/MyProjects-5/Road_Accident_Dashboard/assets/140932670/0344d301-ad44-4781-88b2-91f9476aa8cf)
+![Screenshot 2024-02-29 125125](https://github.com/MyProjects-5/Road_Accident_Dashboard/assets/140932670/c90317cb-d348-4947-89ff-6f54584c50d6)
+
 
 
 
