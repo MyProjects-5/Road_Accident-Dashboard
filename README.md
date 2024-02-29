@@ -6,13 +6,15 @@ The Main objective of this project is to analyze the Road Accident in two differ
 Finding Total Number of Casualties happened in Two years.      
 Which helps in getting actionable insights that will helps in reducing Road accident by taking necessary measures.      
 # Key Findings:-
-Primary KPI:-          
+           
+*Primary KPI:-          
      1. Total Casualties      
      2. Fatal Casualties     
      3. Serious Casualties     
      4. Slight Casualties     
-     5. Total Casualties by Vehicle Type     
-Secondary KPI:-              
+     5. Total Casualties by Vehicle Type  
+          
+*Secondary KPI:-              
      1. Current year Casualties vs Previous year Casualties by Monthly Trend     
      2. Casualties by Road Surface      
      3. Casualties by Road Type      
