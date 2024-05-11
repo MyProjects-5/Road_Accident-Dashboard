@@ -21,7 +21,7 @@ Which helps in getting actionable insights that will helps in reducing Road acci
      3. Casualties by Road Type      
      4. Casualties by Location/Area       
      5. Casualties by Light Condition       
-## Conclusion of the Analysis :-
+## 📌 Conclusion of the Analysis :-
 - When we see the analysis we get to know that the casualties are happened more on Car .          
 - When you compare the casualties between two year that is 2021 and 2022, The number of casualties is Decreasing in 2022 when you compared to 2021. Which is Good and in the month of October and November The Number of Casualties are More.        
                                                      
