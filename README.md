@@ -28,6 +28,9 @@ The Main objective of this project is to analyze the Road Accident in two differ
 - Number of Casualties are more on Daylight Condition.          
 - Number of Casualties are happened more on Single carriageway  Type of  Road.        
 
+## DashBoard Vedio :-
+https://github.com/MyProjects-5/Road_Accident-Dashboard/assets/140932670/64ca330f-090e-4a8d-825e-dedcff5ab083
+
 ## Screenshot of the Analysis :-
 ![Screenshot 2024-02-29 124432](https://github.com/MyProjects-5/Road_Accident_Dashboard/assets/140932670/f2a23b9b-327d-4136-8710-b414ac7e147a)
 ![Screenshot 2024-02-29 114534](https://github.com/MyProjects-5/Road_Accident_Dashboard/assets/140932670/6483a4cc-c3e7-4c59-ac85-6281725d1108)
