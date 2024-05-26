@@ -1,4 +1,4 @@
-# Road Accident Dashboar  
+# Road Accident Dashboard
 I am very excited to share my Microsoft Excel Project.  
 
 ## Objective :-
